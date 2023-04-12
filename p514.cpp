@@ -13,7 +13,7 @@ void AfiseazaDatele();
 //  valorile din vector care sunt prime cu ultimul element al vectorului.
 int main()
 {
-    //TODO 3
+    //TODO 4
     //CitesteDatele();
     //FiltreazaNrPrime();
     //sortArray();
